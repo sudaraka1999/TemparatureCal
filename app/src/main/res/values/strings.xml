@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculater</string>
+    <string name="et_temp">Enter a value</string>
+    <string name="rd_btn_C">Celcius</string>
+    <string name="rd_btn_F">Faranhite</string>
+    <string name="btn_calculate">Calculate</string>
+</resources>
